@@ -24,6 +24,7 @@ The project aims to address challenges in anatomy education by providing an acce
   
 SCREENSHOT OF UI:- <img width="452" height="1158" alt="ar anatomy ui" src="https://github.com/user-attachments/assets/1a849b5b-3769-406e-8ca5-37a711354ea2" />
 
+Phone Video:- https://drive.google.com/file/d/1ht_09JUrHO2moGJTSf1rHnqaOCiqrdfs/view?usp=sharing
 
   Setup Instructions:-
 Install Unity 2022.3.30f1
