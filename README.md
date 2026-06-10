@@ -26,7 +26,13 @@ Install the AR Foundation package
 Open the project in Unity Hub
 Switch platform to Android
 Build & Run on device
-  
+
+  Deployment Plan
+Built with Unity AR Foundation
+Uses ARCore for Android tracking
+Target platform: Android devices
+Tested on a mobile device
+Future: Google Play Store deployment
 
 ## Future Enhancements
 
