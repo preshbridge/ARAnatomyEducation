@@ -22,7 +22,8 @@ The project aims to address challenges in anatomy education by providing an acce
 
   FIGMA:- <img width="1366" height="768" alt="Screenshot (209)" src="https://github.com/user-attachments/assets/38dc2576-ed56-46fe-b006-c452d630d082" />
   
-SCREENSHOT OF UI:- <img width="452" height="1158" alt="ar anatomy ui" src="https://github.com/user-attachments/assets/1a849b5b-3769-406e-8ca5-37a711354ea2" />
+SCREENSHOT OF UI:- <img width="452" height="1158" alt="ar anatomy ui" src="https://github.com/user-attachments/assets/1a849b5b-3769-406e-8ca5-37a711354ea2" /> <img width="452" height="1158" alt="ui instruction" src="https://github.com/user-attachments/assets/99e9b703-c61f-4bd6-bd24-3a0888129c1e" /> <img width="452" height="1158" alt="heart" src="https://github.com/user-attachments/assets/c3d07d10-f5a6-4c8d-84d3-10de93c04479" /> 
+
 
 Phone Video:- https://drive.google.com/file/d/1ht_09JUrHO2moGJTSf1rHnqaOCiqrdfs/view?usp=sharing
 
