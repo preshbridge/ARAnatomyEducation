@@ -21,6 +21,8 @@ The project aims to address challenges in anatomy education by providing an acce
   GITHUB LINK:- https://github.com/preshbridge/ARAnatomyEducation.git
 
   FIGMA:- <img width="1366" height="768" alt="Screenshot (209)" src="https://github.com/user-attachments/assets/38dc2576-ed56-46fe-b006-c452d630d082" />
+  
+SCREENSHOT OF UI:- <img width="452" height="1158" alt="ar anatomy ui" src="https://github.com/user-attachments/assets/1a849b5b-3769-406e-8ca5-37a711354ea2" />
 
 
   Setup Instructions:-
