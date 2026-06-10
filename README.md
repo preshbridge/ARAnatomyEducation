@@ -18,6 +18,16 @@ The project aims to address challenges in anatomy education by providing an acce
 * Mobile AR Experience using ARCore
 * User-Friendly Navigation
 
+  GITHUB LINK:- https://github.com/preshbridge/ARAnatomyEducation.git
+
+  Setup Instructions:-
+Install Unity 2022.3.30f1
+Install the AR Foundation package
+Open the project in Unity Hub
+Switch platform to Android
+Build & Run on device
+  
+
 ## Future Enhancements
 
 * Voice Narration
@@ -26,5 +36,3 @@ The project aims to address challenges in anatomy education by providing an acce
 * Organ Rotation and Scaling Controls
 * Multi-Language Support
 * Performance Analytics
-  
-GITHUB LINK:- 
